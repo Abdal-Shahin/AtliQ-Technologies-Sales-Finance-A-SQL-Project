@@ -56,6 +56,18 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
   <img src="https://github.com/user-attachments/assets/27077a46-cd71-41a9-8aff-bcbf704e0f73" alt="Image 17" />
 </p>
 
+- Fiscal-Monthly Sales Trend
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdf7251b-7456-44f1-8727-78710719290c" alt="Image 1" />
+</p>
+
+- Forecast Accuracy
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5714e9f8-1ab8-4a92-ac7a-1751e51e4f77" alt="Image 2" />
+</p>
+
 ### Stored Procedures:
 - Monthly gross sales by customers.
 
