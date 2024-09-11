@@ -3,7 +3,7 @@
 ## Company Overview
 
 **AtliQ Technologies**  
-AtliQ Technologies is a leading computer devices manufacturer based in India, catering to 74 prominent customers, including Amazon and Croma. The company operates across 27 global markets, such as India, South Korea, and Italy, spanning 4 major regions—APAC, EU, and LATM. With a diverse product portfolio of 73 products and 26 variants (e.g., Plus, Standard), AtliQ specializes in 6 key segments, including peripherals, accessories, networking, and storage solutions.
+AtliQ Technologies is a leading computer devices manufacturer based in India, catering to 74 prominent customers, including Amazon and Croma. The company operates across 27 global markets, such as India, South Korea, and Italy, spanning 4 major regions. With a diverse product portfolio of 73 products and 26 variants (e.g., Plus, Standard), AtliQ specializes in 6 key segments, including peripherals, accessories, networking, and storage solutions.
 
 ## Problem Statement
 
