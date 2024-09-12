@@ -15,17 +15,17 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
 
 ## SQL Project Overview
 
-### Dataset: 
+### DATASET: 
 1.4 million records
 
-### Calculated Columns:
+### CALCULATED COLUMNS:
 - Created a fiscal year column from the date field.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/767c4020-97ed-4bca-9f0c-3340db943ecf" alt
 
 - Generated gross price totals.
 
-### Reports Generated:
+### REPORTS GENERATED:
 - Transactions for Croma in FY 2021 with gross price total.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6cbd3d71-8d3e-4096-814f-c8620480851a" alt="Centered Image" />
@@ -68,7 +68,7 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
   <img src="https://github.com/user-attachments/assets/5714e9f8-1ab8-4a92-ac7a-1751e51e4f77" alt="Image 2" />
 </p>
 
-### Stored Procedures:
+### STORED PROCEDURES:
 - Monthly gross sales by customers.
 
   <p align="center">
@@ -84,7 +84,7 @@ C_code = Customer code
   <img src="https://github.com/user-attachments/assets/ad042db8-0aae-4be4-ab90-e7b1ab18ac18" alt="Image 6" />
 </p>
 
-### Views Created:
+### VIEWS CREATED:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4d1e5ad-417e-4a2d-8955-b9a38110592c" alt="Image 8" />
 </p>
