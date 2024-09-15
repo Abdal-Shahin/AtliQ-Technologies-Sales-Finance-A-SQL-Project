@@ -3,7 +3,6 @@
   <img src="https://github.com/user-attachments/assets/5fc93326-d3e0-444c-b393-8fb7effbc2ca" alt="gadgets">
 </div>
 
-
 ## COMPANY OVERVIEW
 
 **AtliQ Technologies**  
@@ -17,7 +16,14 @@ Additionally, AtliQ required detailed reports on sales performance across fiscal
 
 To address these challenges, I utilized SQL to generate calculated columns, reports, stored procedures, and views that streamlined data processing and provided clarity on key performance indicators such as gross sales, net sales, and market share across regions.
 
-## PROJECT OVERVIEW
+## OBJECTIVES
+- Identify key revenue drivers such as top-performing products, markets, and customers.
+
+- Streamline financial analysis by generating detailed reports on gross sales, net sales, market share, and sales trends across fiscal years and regions.
+
+- Provide clarity on pre- and post-invoice sales deductions, improving the accuracy of sales and revenue calculations.
+
+- Deliver insights on forecast accuracy, market share, and regional performance
 
 ### DATASET: 
 1.4 million records
@@ -28,9 +34,7 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
   <img src="https://github.com/user-attachments/assets/767c4020-97ed-4bca-9f0c-3340db943ecf" alt"Centered Image" />
 </p>
 
-**2**. Generated gross price totals.
-
-### REPORTS GENERATED:
+### DERIVED INSIGHTS AND REPORTS:
 **1**. Transactions for Croma in FY 2021 with gross price total.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6cbd3d71-8d3e-4096-814f-c8620480851a" alt="Centered Image" />
@@ -68,6 +72,10 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
 
 ### STORED PROCEDURES:
 **1**. Monthly gross sales by customers.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c43d1700-042b-427c-824c-4d9d72780162" alt="Proced Monthly Gross Sales">
+</div>
+
   <p align="center">
   <img src="https://github.com/user-attachments/assets/bebf0cad-7ae3-4c46-80f9-f3339fa2cadd" alt="Image 5" />
 </p>
@@ -86,34 +94,39 @@ C_code = Customer code
 </p>
 
 **1**. Gross sales
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3d1b0f2-18bd-4e20-a3e3-b90a76ae046c" alt="Image 9" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/58e82217-74d8-4bc6-a7cb-bf649c741368" alt="View gross sales 1"><br>
+  <img src="https://github.com/user-attachments/assets/cdd8244c-2a8a-4996-ab3b-0f515477d42b" alt="View gross sales 2">
+</div>  
 
 **2**. Net invoice sales
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff9e16eb-e273-4efe-9dc9-e2dd1f0aa93c" alt="Image 12" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/982da616-efcf-4fba-9634-e26bf656cdd3" alt="View NIS 1"><br>
+  <img src="https://github.com/user-attachments/assets/de1a7492-dfc8-4d4e-9e94-a718820eec7a" alt="View NIS 2">
+</div>
+
 
 **3**. Net sales
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1815309-7900-4b15-a41f-b50bc4488c4a" alt="Image 13" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/147cab8b-0e23-46af-a58e-2202fa193dd6" alt="View NS 1"><br>
+  <img src="https://github.com/user-attachments/assets/6a6a5c4e-96e8-4f34-9541-fabb4fc08696" alt="View NS 2">
+</div>
 
 **4**. Post-invoice deductions
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85734dc0-e326-4262-8155-87ab105bdf8b" alt="Image 14" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be71980c-3e6a-4a16-8e0f-21909f9f7e2a" alt="View PID 2"><br>
+  <img src="https://github.com/user-attachments/assets/5b93585b-3d99-49bc-9ad7-6e608d12ce87" alt="View PID 1">
+</div>
 
 **5**. Pre-invoice discounts
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/128dc439-4b6f-4607-9ace-2277f5f88fa0" alt="Image 15" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3f9bfe6f-7cd2-4ba9-b6b6-db21e23b6dd0" alt="PID2"><br>
+  <img src="https://github.com/user-attachments/assets/ada5ccc0-a130-439e-a6da-efd66eaf1fb7" alt="PID1">
+</div>
 
+### CONCLUSION 
+●	In this project, I presented insights on 10+ ad-hoc business requests to the executive management team, by querying 1million+ rows database using SQL.
 
+●	Designed and implemented 4+ views, and stored procedures that delivered valuable insights to the executive team.
 
-
-## Contact
-
-For any queries or suggestions, feel free to reach out!
-
+●	Led the initiative to generate sales and forecast trend reports; and identifying top-performing markets, products, and customers, empowering stakeholders to analyze data effectively and make informed strategic decisions.
