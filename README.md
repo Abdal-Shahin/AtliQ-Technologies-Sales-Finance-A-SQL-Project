@@ -35,7 +35,7 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
 </p>
 
 ### DERIVED INSIGHTS AND REPORTS:
-**1**. Transactions for Croma in FY 2021 with gross price total.
+**1**. What was the total gross price for transactions made by Croma in fiscal year 2021?
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6cbd3d71-8d3e-4096-814f-c8620480851a" alt="Centered Image" />
 </p>
@@ -50,7 +50,7 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
   <img src="https://github.com/user-attachments/assets/5d591ce6-bbbf-42f3-b25a-4fa9f3e3f393" alt="Image 4" />
 </p>
 
-**4**. Market share
+**4**. Customer-wise Market share analysis.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5cde5a8-4dc1-4749-ab12-e85be19d2f83" alt="Image 16" />
 </p>
@@ -65,7 +65,7 @@ To address these challenges, I utilized SQL to generate calculated columns, repo
   <img src="https://github.com/user-attachments/assets/bdf7251b-7456-44f1-8727-78710719290c" alt="Image 1" />
 </p>
 
-**7**. Forecast Accuracy
+**7**. What's the Forecast Accuracy for AtliQ Technologies?
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5714e9f8-1ab8-4a92-ac7a-1751e51e4f77" alt="Image 2" />
 </p>
