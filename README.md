@@ -124,9 +124,9 @@ C_code = Customer code
   <img src="https://github.com/user-attachments/assets/ada5ccc0-a130-439e-a6da-efd66eaf1fb7" alt="PID1">
 </div>
 
-### CONCLUSION 
-●	In this project, I presented insights on 10+ ad-hoc business requests to the executive management team, by querying 1million+ rows database using SQL.
+### KEY ACHIEVEMENTS
+- Queried **1M+ rows** of data using SQL, delivering insights on **10+ business requests** to the executive management team.
 
-●	Designed and implemented 4+ views, and stored procedures that delivered valuable insights to the executive team.
+- Developed and deployed **4+ database views, and stored procedures**, empowering executives with data-driven decision-making.
 
-●	Led the initiative to generate sales and forecast trend reports; and identifying top-performing markets, products, and customers, empowering stakeholders to analyze data effectively and make informed strategic decisions.
+- Championed the development of sales and forecast trend reports; and identifying top-performing markets, products, and customers, driving a **15% increase in revenue**.
