@@ -1,4 +1,4 @@
-# ATLIQ TECHNOLOGIES: SALES & FINANCE - A SQL PROJECT
+## ATLIQ TECHNOLOGIES: SALES & FINANCE - A SQL PROJECT
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c601e2a-0622-44c3-bcee-672c632e7cb3" alt="tech-gadgets-750x375">
 </p>
