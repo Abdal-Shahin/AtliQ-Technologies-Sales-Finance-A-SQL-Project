@@ -1,7 +1,7 @@
 # ATLIQ TECHNOLOGIES - SQL PROJECT
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5fc93326-d3e0-444c-b393-8fb7effbc2ca" alt="gadgets">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c601e2a-0622-44c3-bcee-672c632e7cb3" alt="tech-gadgets-750x375">
+</p>
 
 ## COMPANY OVERVIEW
 
